@@ -1,0 +1,2 @@
+# manpdb
+manipulate PDB coordinates
